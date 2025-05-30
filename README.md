@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img decoding="async" src="[(https://www.canva.com/design/DAGo495pqM8/JAoimZW1DwldKCQ_JeO-TA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)" width="800"/>
+  <img decoding="async" src="[(![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/ffb50945-3d4a-4fcd-bd75-e27ed5c52fe4)
+)" width="800"/>
 </div>
 
 ---
