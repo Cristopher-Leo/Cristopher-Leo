@@ -14,13 +14,13 @@
 
 Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy adquieriendo conocimientos nuevos para la superacion de nuevos retos como Data analyst :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando y practicando :computer: lenguaje SQL y Python, sin olvidar las herramientas de Microsoft pero tambien siendo flexible a adquirir nuevo conocimiento a nuevas herramientas.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta analizar y buscar un orden a los datos  
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Cristopher-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cristopher-leonardo-hernandez-rodarte-1a7ab2342)
 
 
 ---
@@ -34,7 +34,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="SQL"/>
   </a>
 
 </div>
