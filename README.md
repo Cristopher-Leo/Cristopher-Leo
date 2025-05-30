@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://www.canva.com/design/DAGo495pqM8/JAoimZW1DwldKCQ_JeO-TA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)" width="800"/>
 </div>
 
 ---
@@ -12,7 +12,7 @@
 </h1>
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Fan absoluto de la tecnologia con una curiosidad de aprender como funciona este mundo en un transicion de empleo a Data analyst  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: Actualmente estoy adquieriendo conocimientos nuevos para la superacion de nuevos retos como Data analyst :muscle:
 
