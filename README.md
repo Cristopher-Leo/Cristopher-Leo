@@ -1,7 +1,7 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :men_technologist: Sobre mí :
 
 <!--
 **Cristopher-Leo/Cristopher-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
