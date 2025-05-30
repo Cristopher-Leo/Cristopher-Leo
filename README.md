@@ -1,7 +1,11 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+</div>
+
 ---
  <div id="header" align="left">
 
-### :men_technologist: Sobre mí :
+### :Men_technologis: Sobre mí :
 
 <!--
 **Cristopher-Leo/Cristopher-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
