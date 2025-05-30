@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img decoding="async" src="[(![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/ffb50945-3d4a-4fcd-bd75-e27ed5c52fe4)
-)" width="800"/>
+  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github](https://www.canva.com/design/DAGo48vesfc/tD4MGeDi7N87JG-vcAQnyw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0).png" width="800"/>
 </div>
-
 ---
  <div id="header" align="left">
 
